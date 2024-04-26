@@ -1,0 +1,68 @@
+body, .header {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+
+.navbar {
+    background-color: #c8a2c8;
+}
+
+.card {
+    width: 50rem;
+    background-color: transparent;
+    border: 0;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+h1 {
+    color: #7bba60;
+    font-weight: 450;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.bg-image {
+    background-image: url(/images/img_bg.jpg);
+    height: 945px;
+}
+
+.btn {
+    background-color: #c8a2c8;
+    color: white;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+#projetos {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.form-control {
+    margin-block-end: 1.5rem;
+}
+
+textarea.form-control {
+    height: 125px;
+}
+
+.enviar {
+    width: 100%;
+}
+
+#time {
+    background-color: #dedec8;
+}
+
+.page-footer {
+    background-color: black;
+    color: #c1c1c1;
+}
