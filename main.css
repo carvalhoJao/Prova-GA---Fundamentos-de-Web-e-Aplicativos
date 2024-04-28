@@ -60,9 +60,15 @@ textarea.form-control {
 
 #time {
     background-color: #dedec8;
+    padding-left: 18rem;
+    padding-right: 18rem;   
 }
 
 .page-footer {
     background-color: black;
     color: #c1c1c1;
+}
+
+.rounded-circle {
+    width: 90%;
 }
